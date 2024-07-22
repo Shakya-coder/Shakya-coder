@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shakya-coder
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in Artificial Intelligence and Robots
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on AI humanoid robots 
