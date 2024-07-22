@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit
 - 👀 I’m interested in Artificial Intelligence and Robots
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on AI humanoid robots 
+- 💞️ I’m looking to collaborate on Drones or AI humanoid robots 
 - 📫 How to reach me - just email me @ rohitks1124@gmail.com
 
 <!---
